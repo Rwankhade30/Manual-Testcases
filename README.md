@@ -8,7 +8,7 @@ Tools Used: Jira
 ![ExecutionResult2024](https://github.com/Rwankhade30/Manual-Testcases/assets/132284236/96ec3cd1-da84-4f48-8f98-b0521c77f00d)
 
 
-**Test Execution scorecard**
+Test Execution scorecard
 ![ScoCard](https://github.com/Rwankhade30/Manual-Testcases/assets/132284236/27dd63f4-707f-4871-909c-a8dee32c8f5a)
 
 
