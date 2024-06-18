@@ -5,7 +5,7 @@ Tools Used: Jira
 
 <h2> Final Report:</h2>
 **Test Execution scorecard**
-![ScoCard](https://github.com/Rwankhade30/Manual-Testcases/assets/132284236/9687500a-201f-4204-8242-ed604b7095a7)
+![ScoCard](https://github.com/Rwankhade30/Manual-Testcases/assets/132284236/27dd63f4-707f-4871-909c-a8dee32c8f5a)
 
 ##Functionalities Covered
 The following functionalities were covered in this project:
