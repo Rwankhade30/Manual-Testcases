@@ -4,12 +4,14 @@ Methodology: Agile-Scrum methodology
 Tools Used: Jira
 
 <h1> Final Report:</h1>
-<h3>Test execution report</h3>
-![ExecutionResult2024](https://github.com/Rwankhade30/Manual-Testcases/assets/132284236/96ec3cd1-da84-4f48-8f98-b0521c77f00d)
+<h3>Test execution result</h3>
+![ExecutionResult](https://github.com/Rwankhade30/Manual-Testcases/assets/132284236/ead1ee97-bc64-40fc-b5b8-64233df0ef57)
+
 
 
 <h3>Test execution scorecard</h3>
-![ScoCard](https://github.com/Rwankhade30/Manual-Testcases/assets/132284236/27dd63f4-707f-4871-909c-a8dee32c8f5a)
+![scorecard by tester](https://github.com/Rwankhade30/Manual-Testcases/assets/132284236/735ffb55-d3ff-4dfb-b789-ee74d6054e30)
+
 
 
 ## Functionalities Covered
