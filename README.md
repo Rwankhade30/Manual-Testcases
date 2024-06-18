@@ -4,8 +4,6 @@ Methodology: Agile-Scrum methodology
 Tools Used: Jira
 
 <h2> Final Report:</h2>
-**test Execution Result**
-
 **Test Execution scorecard**
 ![ScoCard](https://github.com/Rwankhade30/Manual-Testcases/assets/132284236/9687500a-201f-4204-8242-ed604b7095a7)
 
