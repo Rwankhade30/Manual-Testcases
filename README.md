@@ -2,6 +2,10 @@
 The project is based on Agile project management using the JIRA tool to test Opencart website demo.opencart.com. The testing activities included designing and documenting test cases for different functionalities, executing test cases, and resolving identified issues.
 Methodology: Agile-Scrum methodology
 Tools Used: Jira
+
+**Test Execution scorecard**
+![ScoCard](https://github.com/Rwankhade30/Manual-Testcases/assets/132284236/a93867c1-a293-49cd-b0c0-14333a2fb11a)
+
 ##Functionalities Covered
 The following functionalities were covered in this project:
 
