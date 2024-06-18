@@ -3,6 +3,9 @@ The project is based on Agile project management using the JIRA tool to test Ope
 Methodology: Agile-Scrum methodology
 Tools Used: Jira
 
+<h2> Final Report:</h2>
+**test Execution Result**
+![Test execution result](C:\Users\rashm\OneDrive\Pictures\ExecutionResult.pdf)
 **Test Execution scorecard**
 ![ScoCard](https://github.com/Rwankhade30/Manual-Testcases/assets/132284236/a93867c1-a293-49cd-b0c0-14333a2fb11a)
 
